@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Paper Hat Security!
+
+Hello World! Pizza Hands!
+
+## Below is some of the default gobbledeegoo.
 
 You can use the [editor on GitHub](https://github.com/paperhatsecurity/paperhatsecurity.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
